@@ -6,8 +6,8 @@
 // @author       Jeni4
 // @match        http://www.chuiyao.com/manhua/*/*.html*
 // @grant        none
-// @downloadURL  https://github.com/Jeni4/Chuiyao-next-page-prefetcher/raw/master/chuiyao-next-page-prefetcher.user.js
-// @updateURL    https://github.com/Jeni4/Chuiyao-next-page-prefetcher/raw/master/chuiyao-next-page-prefetcher.user.js
+// @downloadURL  https://openuserjs.org/install/Jeni4/Chuiyao_next-page_prefetcher.user.js
+// @updateURL    https://openuserjs.org/install/Jeni4/Chuiyao_next-page_prefetcher.user.js
 // @license
 // @copyright
 // ==/UserScript==
