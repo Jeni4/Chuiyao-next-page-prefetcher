@@ -8,8 +8,6 @@
 // @grant        none
 // @downloadURL  https://openuserjs.org/src/scripts/Jeni4/Chuiyao_next-page_prefetcher.user.js
 // @updateURL    https://openuserjs.org/meta/Jeni4/Chuiyao_next-page_prefetcher.user.js
-// @license
-// @copyright
 // ==/UserScript==
 
 /* Static Variables */
